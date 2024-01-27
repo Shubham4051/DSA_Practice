@@ -1,3 +1,3 @@
 # Comparision operators "==", ">=", "<=", "!=", "<", ">"
 # Logical operator "and", "or", "not"
-# If Else 
+# If Elif Else 
