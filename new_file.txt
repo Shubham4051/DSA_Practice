@@ -1,0 +1,5 @@
+This is a new file 
+written in text mode 
+   not with the help of python 
+        please go on with Knowledge 
+                please
