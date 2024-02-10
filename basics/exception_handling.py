@@ -5,4 +5,7 @@
 # finally: # it will work even if nothing works
 #     print("Ho gya kya ???")
 
-fl_new = open("nwe_file_2.csv", 'w')
+try:
+    fl_new = open("new_file_2.csv", 'w')
+    
+
